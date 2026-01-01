@@ -32,3 +32,4 @@ Nghĩa là bạn không thể nhận bất cứ lợi ích xã hội nào khi b�
 [^jobseeking]: [Jobseeking permit](https://www.nyidanmark.dk/en-GB/Words%20and%20Concepts%20Front%20Page/SIRI/Jobseeking%20permit) truy cập ngày 17/03/2023.
 [^estcard]: [Establishment card](https://www.nyidanmark.dk/en-GB/Applying/Work/Establishment%20card) truy cập ngày 17/03/2023.
 [^noneea]: [Graduates in Denmark coming from non-EEA countries](https://www.a-kasser.dk/non-eea-graduates/) truy cập ngày 17/03/2023.
+[^req]: [Requirements for Unemployment benefits](https://www.a-kasser.dk/requirements/) truy cập ngày 01/01/2026.
